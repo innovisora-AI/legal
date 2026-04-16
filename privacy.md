@@ -3,7 +3,7 @@
 **Effective date:** April 15, 2026
 **Last updated:** April 15, 2026
 **Publisher:** Innovisora (innovisora.com)
-**Contact:** atharva@innovisora.com
+**Contact:** support@innovisora.com
 
 Gita AI ("the app", "we", "us") is a Bhagavad Gītā study companion published by Innovisora. It that offers AI-guided verse explanations, chapter browsing, bookmarks, and a daily verse widget. This policy explains what information the app collects, how it is used, and the rights you have over your data.
 
@@ -74,7 +74,7 @@ The following services receive data from the app. Each has its own privacy polic
 ## 4. Data Retention
 
 - **On your device:** chat history and bookmarks remain until you clear them or uninstall the app.
-- **Firebase:** subscription records remain tied to your account until you delete the account. To delete, email us at atharva@innovisora.com and we will remove your Firestore record within 30 days.
+- **Firebase:** subscription records remain tied to your account until you delete the account. To delete, email us at support@innovisora.com and we will remove your Firestore record within 30 days.
 - **Gemini API:** Google's retention policy applies. As of this writing, Google retains Gemini free-tier prompts for up to 55 days for abuse monitoring. See https://ai.google.dev/gemini-api/terms for the current terms.
 
 ---
@@ -88,7 +88,7 @@ You can:
 - **Sign out** — removes your account reference from the device; data syncs back on next sign-in.
 - **Uninstall the app** — removes all on-device data.
 
-If you are in the EU, UK, or California, you have additional rights under GDPR or CCPA (right to access, rectify, erase, restrict, or port your data). Email atharva@innovisora.com to exercise these rights.
+If you are in the EU, UK, or California, you have additional rights under GDPR or CCPA (right to access, rectify, erase, restrict, or port your data). Email support@innovisora.com to exercise these rights.
 
 ---
 
@@ -118,7 +118,7 @@ Questions, requests, or concerns:
 
 **Innovisora**
 Website: https://innovisora.com
-Email: atharva@innovisora.com
+Email: support@innovisora.com
 
 ---
 
