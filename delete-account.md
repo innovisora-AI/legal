@@ -13,7 +13,7 @@ To fully delete the account record tied to your email, also follow Option 2.
 
 ## Option 2 — By email
 
-Send an email to **atharva@innovisora.com** from the Google account you used to sign in, with the subject line "Delete my Gita AI account".
+Send an email to **support@innovisora.com** from the Google account you used to sign in, with the subject line "Delete my Gita AI account".
 
 We will delete within 7 days:
 
@@ -27,4 +27,4 @@ We retain transactional records (purchase history) for 7 years as required by In
 
 ## Contact
 
-Questions: atharva@innovisora.com
+Questions: support@innovisora.com
